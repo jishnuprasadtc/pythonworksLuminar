@@ -1,0 +1,40 @@
+/* .box{*1
+    width: 200px;
+    height: 100px;
+    background-color:aqua;
+    border: 1px solid black;
+    margin-left: 200px;
+    margin-top: 100px;
+    padding: 30px;
+    
+}
+.box2{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    border: 1px solid black;
+    margin-top: 250px;
+    margin-left: 200px;
+    padding: 30px;
+} */
+
+body{
+    margin: 0;
+}
+.box{
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+}
+.box0{
+    margin-right: auto;
+}
+.box1{
+    margin-right:auto ;
+    margin-left: auto ;
+  
+}
+.box2{
+    margin-left: auto;
+}

@@ -1,0 +1,23 @@
+body{
+    background-color:wheat;
+}
+.box{
+    width:30% ;
+    height: 100px;
+    border: 1px solid balck;
+    background-color: aquamarine;
+    float: left;
+    margin-left: 3%;
+    text-align: center;
+
+
+}
+.bg-primary{
+    background-color: blue;
+}
+.bg-danger{
+    background-color: red;
+}
+.bg-waring{
+    background-color: yellow;
+}

@@ -1,0 +1,5 @@
+print(" my name is Jishunprasad TC")
+print(" I completed my BCA degree")
+print(" SES college sreekandapuram")
+print(" Am from Kannur")
+print(" Studying in luminar at kochi")

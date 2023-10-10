@@ -1,0 +1,63 @@
+ /* bsaic tag selection */
+ /* using tagname */
+ /* basic selectors */
+
+
+ body{
+
+    background-color: #c1d169;
+ }
+
+ h1{
+
+    color:white 
+ }
+
+ #head_id{
+font-size: 70px;
+    color: #f0850c;
+ }
+.listitem{
+    color: rgb(139, 116, 238);
+    text-decoration-line:underline;
+    font-size: 30px;
+    /* text-decoration-color: black ; */
+
+    
+}
+.listitem_odd{
+    text-decoration-color: rgb(4, 16, 16);
+}
+.listitem_even{
+    text-decoration-color: rgb(242, 5, 5);
+}
+.mainhead{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-style: italic;
+    font-size: 100px;
+}
+.items h3{
+    color: blueviolet;
+}
+
+/* .py{
+    text-decoration: underline;
+}
+.jv{
+    text-decoration: line-through;
+}
+.sql{
+    text-decoration: overline;
+} */
+
+.items h3:nth-child(1){
+    text-decoration: underline;
+}
+.items h3:nth-child(2){
+    text-decoration: overline;
+}
+.items h3:nth-child(3){
+    text-decoration: line-through;
+}

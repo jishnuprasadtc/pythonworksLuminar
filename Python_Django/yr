@@ -1,0 +1,8 @@
+f_read=open("C:\\Users\\DELL\\OneDrive\\Desktop\\Python_Django\\file_input_output opreation","r")
+f_write=open("C:\\Users\\DELL\\OneDrive\\Desktop\\Python_Django\\file_input_output opreation\\leapyears.txt","w")
+for year in f_read:
+    year=int(year)
+    if (year %100==0) and (year%4==0):
+        f_write.write(str(year)+"\n")
+    elif(year %100!=0) and(year %4==0):
+        f_write.write(str(year)+"\n")

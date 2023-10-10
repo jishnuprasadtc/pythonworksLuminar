@@ -1,0 +1,128 @@
+
+
+body{
+    background-color: black;
+    color: white;
+   
+}
+.head{
+    text-align: center;
+    text-decoration: underline;
+}
+.boxclr{
+    
+    width: 9%;
+    height: 100px;
+    border: 1 solid black;
+    background-color: aliceblue;
+    float: left;
+    margin-left: 2%;
+    text-align: center;
+
+    
+    
+    
+}
+.clr1{
+    background-color: green;
+    margin-left: 22%;
+}
+.clr2{
+    background-color: yellow;
+}
+.clr3{
+    background-color: red;
+
+}
+
+.clr4{
+    background-color: orange;
+
+}
+.clr5{
+    background-color: pink;
+    margin-right: 22%;
+
+}
+
+.box2clr{
+    width: 9%;
+    height: 100px;
+    border: 1 solid black;
+    background-color: aliceblue;
+    float: left;
+    margin-left:2%;
+    text-align: center;
+    padding:0;
+    margin-top: 2%;
+}
+.clr11{
+    background-color: rosybrown;
+    margin-left: 11%
+}
+.clr12{
+    background-color:blue ;
+}
+.clr13{
+    background-color: brown;
+}
+.clr14{
+    background-color: violet;
+}
+.clr15{
+    background-color: white;
+}
+.clr16{
+    background-color: gold;
+}
+.clr17{
+    background-color: gray;
+    margin-right: 11%;
+}
+.box3clr{
+    width: 9%;
+    height: 100px;
+    border: 1 solid black;
+    background-color: aliceblue;
+    float: left;
+    margin-left:2%;
+    text-align: center;
+    padding:0;
+    margin-top: 2%;
+}
+.clr111{
+    background-color: olive;
+    margin-left: 0%;
+}
+
+.clr112{
+    background-color: navy;
+}
+.clr113{
+    background-color: skyblue;
+}
+
+.clr114{
+    background-color: magenta;
+}
+
+.clr115{
+    background-color: darkred;
+}
+
+.clr116{
+    background-color: sandybrown;
+}
+
+.clr117{
+    background-color: darkgoldenrod;
+}
+
+.clr118{
+    background-color: lightblue;
+}
+
+.clr119{
+    background-color: lightgreen;
+    margin-right:0%;
+}

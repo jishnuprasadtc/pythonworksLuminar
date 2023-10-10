@@ -1,0 +1,133 @@
+body{
+    background-color: black;
+}
+.head{
+    text-align: center;
+    text-decoration: underline;
+    color: aliceblue;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    
+}
+
+.row{
+    text-align: center;
+    
+    width: 50%;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+    
+}
+.boxclr{
+    width: 19%;
+    height: 140px;
+    border: 1px solid black;
+    
+}
+.row .boxclr:nth-child(1){
+    background-color: green;
+}
+.row .boxclr:nth-child(2){
+    background-color: yellow;
+}
+.row .boxclr:nth-child(3){
+    background-color: red;
+}
+.row .boxclr:nth-child(4){
+    background-color: orange;
+}
+.row .boxclr:nth-child(5){
+    background-color: pink;
+}
+
+.row1{
+    text-align: center;
+    
+    width: 70%;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4%;
+}
+
+.box2clr{
+    width: 13.5%;
+    height: 140px;
+    border: 1px solid black;
+    
+}
+.row1 .box2clr:nth-child(1){
+    background-color:rosybrown;
+}
+.row1 .box2clr:nth-child(2){
+    background-color:blue;
+}
+.row1 .box2clr:nth-child(3){
+    background-color:brown;
+}
+.row1 .box2clr:nth-child(4){
+    background-color:violet;
+}
+.row1 .box2clr:nth-child(5){
+    background-color:white;
+}
+.row1 .box2clr:nth-child(6){
+    background-color:gold;
+}
+.row1 .box2clr:nth-child(7){
+    background-color:grey;
+}
+
+
+.row2{
+    text-align: center;
+    
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4%;
+}
+.box3clr{
+    width: 10.5%;
+    height: 150px;
+    border: 1px solid black;
+}
+
+.row2 .box3clr:nth-child(1){
+    background-color:olive;
+}
+
+.row2 .box3clr:nth-child(2){
+    background-color:navy;
+}
+.row2 .box3clr:nth-child(3){
+    background-color:skyblue;
+}
+.row2 .box3clr:nth-child(4){
+    background-color:magenta;
+}
+.row2 .box3clr:nth-child(5){
+    background-color:darkred;
+}
+.row2 .box3clr:nth-child(6){
+    background-color:salmon;
+}
+.row2 .box3clr:nth-child(7){
+    background-color:darkgoldenrod;
+}
+.row2 .box3clr:nth-child(8){
+    background-color:lightblue;
+}
+.row2 .box3clr:nth-child(9){
+    background-color:lightgreen;
+}

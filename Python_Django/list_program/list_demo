@@ -1,0 +1,66 @@
+# filims=["vigathakumarana","marthanadavarama","balan","nirmsla"]
+# # print(filims[0])
+# for f in filims:
+#     print(f)
+
+
+# amount=[12000,13000,14000,11000,25000,28000,21000] #march exp
+# print(amount[2])
+
+#amount=[12000,13000,14000,11000,25000,28000,21000] all exp
+# for e in amount:
+#     print(e)
+
+amount=[12000,13000,14000,11000,25000,28000,21000] #exp>160000
+for e in amount:
+    if e>16000:
+        print(e)
+#***********************************************************************
+#* amount=[12000,13000,14000,11000,25000,28000,21000]                   *
+#* costly=max(amount)                                                    *
+#* print(costly)                                                         *
+# ***********************************************************************
+# amount=[12000,13000,14000,11000,25000,28000,21000]
+# max=0
+# for e in amount:
+#  if e>max:
+#    max=e
+# print(max)   
+
+# amount=[12000,13000,14000,11000,25000,28000,21000]
+# minium=amount[0] #"define the first is minimum value"
+# for e in amount:
+#   if e<minium:
+#     minium=e
+# print(minium)    
+
+
+
+
+
+# amount=[12000,13000,14000,11000,25000,28000,21000]
+# minum=min(amount)
+# print(minum)
+
+# amount=[12000,13000,14000,11000,25000,28000,21000]
+# srt=sorted(amount)
+# print(srt)
+
+# 
+# srt=sorted(amount,reverse=True)
+# print(srt)
+
+# amount=[12000,13000,14000,11000,25000,28000,21000]
+# maximum=max(amount)
+# print(maximum)
+
+# amount=[12000,13000,14000,11000,25000,28000,21000]
+# acent=sorted(amount,reverse=False)
+# print(acent)
+
+
+
+# amount=[12000,13000,14000,11000,25000,28000,21000]
+# desnt=sorted(amount,reverse=True)
+# print(desnt)
+
